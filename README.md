@@ -19,6 +19,8 @@ $ npm start
 
 View the website at: http://localhost:3003
 
+* Create a .env file in the root with the same content .env.example
+
 ## Tests
 
   To run the test suite, first install the dependencies, then run `npm test`:
